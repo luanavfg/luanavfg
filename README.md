@@ -1,4 +1,4 @@
-## Olá! Eu sou a Luana Vefago dos Santos, estudante de tecnologia!
+## Olá! Eu sou a Luana, estudante de tecnologia!
 
 - 🌱 Estou estudando Front-End: JS, HTML e CSS
 - 📫 Contacte-me no e-mail: luanavefago1@gmail.com
