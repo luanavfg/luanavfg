@@ -1,8 +1,7 @@
-## Olá! Eu sou a Luana, estudante de tecnologia!
+## Hello! My name is Luana and I am working as a Front-End Developer!
 
-- 🌱 Estou estudando Front-End: JS, HTML e CSS
-- 📫 Contacte-me no e-mail: luanavefago1@gmail.com
-- 😄 Pronouns: ela/dela
+- 🌱 I'm currently working with: JS, TS, ReactJS, HTML, CSS and Next.js
+- 📫 Contact me at my e-mail: luanavefago1@gmail.com
 
 <div align="center">
   <a href="https://github.com/luanavfg">
@@ -12,9 +11,11 @@
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Luana-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Luana-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Luana-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/reactjs/reactjs-plain.svg">
   <img align="center" alt="Luana-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Luana-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Luana-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Luana-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-plain.svg">
 </div>  
 
 ##
